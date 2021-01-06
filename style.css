@@ -91,6 +91,7 @@ background-color: rgba(247, 244, 244, 0.815);
   padding:2%;
   margin-left:7%;
   width:20%;
+  height:50%;
   float:left;
   border-radius:10px;
 }
@@ -135,7 +136,7 @@ background-color: rgba(247, 244, 244, 0.815);
   margin-right: 5%;
 }
 .bonus{
-  height:400px;
+  height:450px;
   margin-top: 10%;
   background-color: rgba(213, 236, 250, 0.281);
 }
@@ -156,7 +157,34 @@ background-color: rgba(247, 244, 244, 0.815);
   font-size: 20px;
   font-weight: 600;
 }
-
+.inputsectiondesign{
+  margin-left:8%;
+border:1px solid black;
+width:50%;
+padding:2%;
+height:200px;
+background-color: cornflowerblue;
+}
+.forumdesign{
+  margin-left:8%;
+ 
+}
+.inputdesign{
+  width:80%;
+  height:25px;
+  margin: 1%;
+  font-size: 15px;
+  background-color: rgb(194, 224, 60);
+  font-weight: 600;
+  padding:1%;
+  
+}
+#submitbutton{
+  margin:1%;
+  padding: 5px 10px;
+  background-image: linear-gradient(180deg,lightsalmon,red);
+  border-radius: 5px;
+}
 footer p{
   margin-top:3%;
   text-align: center;
@@ -172,4 +200,15 @@ footer h4{
 footer h2{
   color:dimgray;
   text-align: center;
+ 
+}
+.smallpic{
+  
+  display:inline;
+  margin-left:45%;
+ 
+}
+.smallpic img{
+  width: 3%;
+  height: 3%;
 }
